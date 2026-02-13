@@ -4,7 +4,7 @@ public class dowhile {
         do{
             System.out.println(i+1);
             i++;
-        }while(i<-1);
+        }while(i<10);
 
     }
 }
